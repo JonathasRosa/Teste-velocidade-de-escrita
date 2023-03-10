@@ -3,12 +3,7 @@ Aplicativo de Teste de velocidade de escrita
 
 ##
 ![](/img/tela-1.png)
-![](/img/tela-2.png)
-![](/img/tela-3.png)
-![](/img/tela-4.png)
-![](/img/tela-5.png)
-![](/img/tela-8.png)
-![](/img/tela-7.png)
+
 
 ## Ambiente de Desenvolvimento
 
